@@ -159,7 +159,7 @@ class TugasKuApp extends StatelessWidget {
           secondary: Color(0xFF8B5CF6),
           surface: Color(0xFF131B2E),
         ),
-        cardTheme: const CardThemeData(
+        cardTheme: const CardTheme(
           color: Color(0xFF131B2E),
           elevation: 0,
           shape: RoundedRectangleBorder(
